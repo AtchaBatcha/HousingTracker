@@ -1,3 +1,5 @@
 #Ignore data folder
 *data/
 *.idea/
+*config.yaml
+__pycache__/
